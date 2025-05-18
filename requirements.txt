@@ -1,3 +1,11 @@
+python-3.10
+streamlit
+pandas
+numpy
+matplotlib
+lifelines
+fpdf
+
 altair==5.5.0
 asttokens==3.0.0
 attrs==25.3.0
